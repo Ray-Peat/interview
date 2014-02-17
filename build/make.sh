@@ -35,7 +35,6 @@ convert_resource () {
     "$video"
   
   google youtube post \
-    --src "Internet" \
     --category "Education" \
     --tags "Ray Peat" \
     --access=private \
