@@ -1,0 +1,12 @@
+.project
+.classpath
+.settings/
+
+.cache
+.scala_dependencies
+
+bin/
+target/
+
+release.properties
+pom.xml.*
