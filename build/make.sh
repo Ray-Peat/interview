@@ -32,7 +32,7 @@ convert_resource () {
     -s 426x240 \
     -shortest \
     -threads 8 \
-    "$video"
+    "$video" >> make-ffmpeg.log 2>&1
   
   google youtube post \
     --category "Education" \
@@ -40,7 +40,7 @@ convert_resource () {
     --access=private \
     --title "$name" \
     --summary "$name" \
-    "$video"
+    "$video" >> make-google.log 2>&1
 
 } 
 
