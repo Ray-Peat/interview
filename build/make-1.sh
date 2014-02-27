@@ -47,9 +47,7 @@ convert_resource () {
 
 
 LIST=$(cat <<END
-$SOURCE/Andrew Murray/2011-06-17 Serotonin Endotoxins Stress - Andrew Murray + Ray Peat.mp3
-$SOURCE/Andrew Murray/2011-07-15 Hair Loss Inflamation - Andrew Murray + Ray Peat.mp3
-$SOURCE/Andrew Murray/2011-11-18 Energy Diabetes Fats - Andrew Murray + Ray Peat.mp3
+$SOURCE/Andrew Murray/2014-02-21 Diabetes - Andrew Murray + Ray Peat.mp3
 END
 )
 
