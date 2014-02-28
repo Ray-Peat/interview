@@ -47,7 +47,7 @@ convert_resource () {
 
 
 LIST=$(cat <<END
-$SOURCE/Andrew Murray/2014-02-21 Diabetes - Andrew Murray + Ray Peat.mp3
+$SOURCE/John Barkhausen/2014-02-26 William Blake - John Barkhausen + Ray Peat.mp3
 END
 )
 
